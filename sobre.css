@@ -1,0 +1,41 @@
+.topo{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #CCC;
+}
+main{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ebedeb;
+}
+section, aside{
+    width: 45%
+}
+section header{
+    padding: 10px;
+    text-align: justify;
+    background-color: rgba(182, 182, 182, 0.5);
+    color:black ;
+}
+section div{
+    padding: 10px;
+    text-align: justify;
+    background-color: #eae6e6;
+    color:black ;
+}
+aside header{
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(182, 182, 182, 0.5);
+    color:black ;
+}
+aside div{
+    padding: 10px;
+    text-align: justify;
+    background-color: #eae6e6;
+    color:black 
+   
+}
